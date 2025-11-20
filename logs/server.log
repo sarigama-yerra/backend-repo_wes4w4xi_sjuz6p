@@ -4,3 +4,5 @@ INFO:     Started reloader process [332] using StatReload
 INFO:     Started server process [334]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
+INFO:     172.20.0.1:38692 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:38694 - "HEAD / HTTP/1.1" 405 Method Not Allowed
